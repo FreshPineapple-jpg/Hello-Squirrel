@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hello Squirrel</string>
+
+    <string name="first_name">Kazi</string>
+    <string name="last_name">Sadman</string>
+    <string name="full_name">%s %s</string>
+
+    <string name="profile_bio_text">Hi! 😎 I\'m currently a CS student \n with a focus on software \nengineering. I enjoy going for \nquiet walks at my local park 🍃.</string>
+
+    <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
+    <string name="profile_hobby_first_text">🥇 Running with a friend 🏃</string>
+    <string name="profile_hobby_second_text">🥈 Reading a book 📙</string>
+    <string name="profile_hobby_third_text">🥉 Watching cool videos 💻</string>
+</resources>
