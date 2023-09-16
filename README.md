@@ -8,7 +8,7 @@ Time spent: **4** hours spent in total
 
 ## Summary
 
-**Hello, Squirrel!** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **I used this app as a way to introduce myself.**
+**Hello, Squirrel!** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **This app is great for introducing yourself to other.**
 
 If I had to describe this project in three (3) emojis, they would be: **😎💻📙**
 
@@ -37,7 +37,7 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='/Animation_Hello, Squirrel!.gif' title='Video Demo' width='' alt='Video Demo' />
 
-GIF created with **your chosen GIF tool**
+GIF created with **ScreenToGif**
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
